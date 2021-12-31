@@ -1,0 +1,23 @@
+,,Error,
+,,RMSE,MSE
+Indonesia,,,
+,Exponential smoothing,5.676,32.216
+,ARIMA,8.513,72.470
+,Fuzzy Chen,7.080,50.121
+,Fuzzy Singh,4.995,24.951
+Malaysia,Exponential smoothing,4.835,23.380
+,ARIMA,4.967,24.675
+,Fuzzy Chen,4.842,23.445
+,Fuzzy Singh,4.865,23.672
+Philippines,Exponential smoothing,4.753,22.594
+,ARIMA,4.779,22.838
+,Fuzzy Chen,5.175,26.785
+,Fuzzy Singh,4.857,23.593
+Singapore,Exponential smoothing,4.850,23.521
+,ARIMA,4.832,23.346
+,Fuzzy Chen,4.918,24.188
+,Fuzzy Singh,4.833,23.358
+Thailand,Exponential smoothing,4.833,23.355
+,ARIMA,4.832,23.347
+,Fuzzy Chen,4.910,24.110
+,Fuzzy Singh,4.836,23.387
